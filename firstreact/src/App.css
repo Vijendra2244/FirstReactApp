@@ -1,0 +1,10 @@
+.head {
+  text-align: center;
+  color: aqua;
+  background-color: black;
+  border-radius: 1rem;
+  padding: 1rem;
+  font-family: monospace;
+  width: 30%;
+  margin: 2rem auto;
+}
